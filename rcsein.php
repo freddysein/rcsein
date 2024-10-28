@@ -1,6 +1,6 @@
 <?php
 
-class my_recaptcha extends rcube_plugin
+class rcsein extends rcube_plugin
 {
     public function init()
     {
